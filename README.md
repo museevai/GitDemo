@@ -2,7 +2,6 @@
 
 This is a sample repository / sample app for the Git course.
 
-
 ##How to work with Git
 1. git checkout main
 2. git pull
