@@ -2,7 +2,10 @@
 
 This is a sample repository / sample app for the Git course.
 
-##How to work with Git
+##GUIs
+* This change made by Visual Studio 2022 Community Edition.
+
+## How to work with Git
 1. git checkout main
 2. git pull
 3. git checkout -b bug-00-branch-name
